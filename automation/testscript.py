@@ -15,5 +15,4 @@ def closeBrowser(self):
     self.driver.close()      
 
 def invite():
-    callback = "https://discord.com/api/oauth2/authorize?client_id=869924074384683088&permissions=8&scope=bot"
     """ REST to DO """
